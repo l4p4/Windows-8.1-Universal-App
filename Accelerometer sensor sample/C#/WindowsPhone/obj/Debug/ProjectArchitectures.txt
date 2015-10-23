@@ -1,0 +1,1 @@
+C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Accelerometer sensor sample\C#\WindowsPhone\AccelerometerCS.WindowsPhone.csproj;neutral

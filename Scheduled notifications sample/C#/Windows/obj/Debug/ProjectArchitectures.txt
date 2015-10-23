@@ -1,0 +1,2 @@
+C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\NotificationsExtensions\NotificationsExtensions.csproj;neutral
+C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\ScheduledNotifications.Windows.csproj;neutral

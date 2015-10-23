@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4DFA24H</Machine>
+    <WindowsUser>dlila</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.ScheduledNotifications.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C6257E36909BFA67E9F29ADA76BB74E752062E7B59D30315207DDF7FFA49A0A7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.ScheduledNotifications.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.ScheduledNotifications.CS_8wekyb3d8bbwe!ScheduledNotifications.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.ScheduledNotifications.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-21T08:47:22.894</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\ScheduledNotifications.Windows.exe">
+      <PackagePath>ScheduledNotifications.Windows.exe</PackagePath>
+      <Modified>2015-10-21T08:47:13.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+      <Modified>2015-10-21T08:47:12.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <Modified>2015-10-21T08:22:55.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2015-10-21T08:22:55.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <Modified>2015-10-21T08:22:55.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-21T08:22:55.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <Modified>2015-10-21T08:22:55.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-21T08:22:55.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2015-10-21T08:22:55.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-21T08:22:55.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-21T08:22:55.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-21T08:22:55.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\ScheduledNotifications.Windows.xr.xml">
+      <PackagePath>ScheduledNotifications.Windows.xr.xml</PackagePath>
+      <Modified>2015-10-21T08:47:13.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-21T08:47:13.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\Scenario1_Schedule.xbf">
+      <PackagePath>Scenario1_Schedule.xbf</PackagePath>
+      <Modified>2015-10-21T08:47:13.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\Scenario2_Manage.xbf">
+      <PackagePath>Scenario2_Manage.xbf</PackagePath>
+      <Modified>2015-10-21T08:47:13.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-10-21T08:47:13.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+      <Modified>2015-10-21T08:47:13.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\NotificationsExtensions\bin\Debug\NotificationsExtensions.xml">
+      <PackagePath>NotificationsExtensions.xml</PackagePath>
+      <Modified>2015-10-21T08:47:12.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Scheduled notifications sample\C#\Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-21T08:47:13.559</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

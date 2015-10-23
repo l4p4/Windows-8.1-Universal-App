@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4DFA24H</Machine>
+    <WindowsUser>dlila</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.ContactPicker.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\ContactPicker.Windows.exe">
+      <PackagePath>ContactPicker.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\ContactPicker.Windows.xr.xml">
+      <PackagePath>ContactPicker.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\Scenario2_PickContacts.xbf">
+      <PackagePath>Scenario2_PickContacts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\Scenario1_PickContact.xbf">
+      <PackagePath>Scenario1_PickContact.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\ContactPickerPage.xbf">
+      <PackagePath>ContactPickerPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Contact Picker app sample\C#\Windows\ContactPicker.Windows.csproj;neutral

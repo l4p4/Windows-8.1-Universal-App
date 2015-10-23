@@ -1,0 +1,1 @@
+C:\Users\dlila\Source\Repos\Windows-8.1-Universal-App\Bluetooth Generic Attribute Profile - Heart Rate Service\C#\WindowsPhone\BluetoothGattHeartRate.WindowsPhone.csproj;neutral
